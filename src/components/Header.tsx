@@ -1,5 +1,5 @@
 import React, { useState, useEffect } from 'react';
-import { Menu, Github, Instagram, Tiktok } from 'lucide-react';
+import { Menu, Github, Instagram, TikTok } from 'lucide-react';
 import { cn } from '../utils/cn';
 
 const Header = () => {
@@ -37,7 +37,7 @@ const Header = () => {
               <Instagram size={20} />
             </a>
             <a href="https://tiktok.com/@iib3xu" className="text-gray-300 hover:text-white transition-colors">
-              <Tiktok size={20} />
+              <TikTok size={20} />
             </a>
             <button className="md:hidden text-white">
               <Menu size={24} />
