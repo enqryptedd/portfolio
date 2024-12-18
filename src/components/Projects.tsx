@@ -22,7 +22,7 @@ const projects = [
     demo: 'https://flappy-bird.co/flappy-bird-2'
   },
   {
-    title: 'iib3xu's API',
+    title: 'iib3xus APIs',
     description: 'An API that has variety of features.',
     image: 'https://raw.githubusercontent.com/chrisaugu/pngx-api/master/images/banner.png',
     tags: ['Python'],
