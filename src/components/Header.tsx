@@ -1,5 +1,5 @@
 import React, { useState, useEffect } from 'react';
-import { Menu, Github, Linkedin, Mail } from 'lucide-react';
+import { Menu, Github, Instagram, Tiktok } from 'lucide-react';
 import { cn } from '../utils/cn';
 
 const Header = () => {
@@ -30,14 +30,14 @@ const Header = () => {
             <a href="#contact" className="text-gray-300 hover:text-white transition-colors">Contact</a>
           </nav>
           <div className="flex items-center space-x-4">
-            <a href="https://github.com/iib3xu" className="text-gray-300 hover:text-white transition-colors">
+            <a href="https://github.com/iib3xuu" className="text-gray-300 hover:text-white transition-colors">
               <Github size={20} />
             </a>
-            <a href="https://linkedin.com/in/iib3xu" className="text-gray-300 hover:text-white transition-colors">
-              <Linkedin size={20} />
+            <a href="https://instagram.com/iib3xu" className="text-gray-300 hover:text-white transition-colors">
+              <Instagram size={20} />
             </a>
-            <a href="mailto:contact@iib3xu.com" className="text-gray-300 hover:text-white transition-colors">
-              <Mail size={20} />
+            <a href="https://tiktok.com/@iib3xu" className="text-gray-300 hover:text-white transition-colors">
+              <Tiktok size={20} />
             </a>
             <button className="md:hidden text-white">
               <Menu size={24} />
