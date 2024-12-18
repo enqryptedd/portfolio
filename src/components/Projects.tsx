@@ -6,29 +6,13 @@ import GridBackground from './ui/GridBackground';
 
 const projects = [
   {
-    title: 'Project Alpha',
-    description: 'A revolutionary web application built with React and Node.js',
+    title: '0pus',
+    description: 'A discord bot that helps securing your server.',
     image: 'https://images.unsplash.com/photo-1555066931-4365d14bab8c?auto=format&fit=crop&w=800&q=80',
-    tags: ['React', 'Node.js', 'MongoDB'],
-    github: 'https://github.com/iib3xu/project-alpha',
-    demo: 'https://project-alpha.com'
+    tags: ['Discord.js', 'MongoDB'],
+    github: 'https://github.com/iib3xuu/opus',
+    demo: 'https://0pus.vercel.app'
   },
-  {
-    title: 'Beta Platform',
-    description: 'AI-powered analytics dashboard for business intelligence',
-    image: 'https://images.unsplash.com/photo-1551288049-bebda4e38f71?auto=format&fit=crop&w=800&q=80',
-    tags: ['Python', 'TensorFlow', 'React'],
-    github: 'https://github.com/iib3xu/beta-platform',
-    demo: 'https://beta-platform.com'
-  },
-  {
-    title: 'Gamma App',
-    description: 'Mobile-first social networking application',
-    image: 'https://images.unsplash.com/photo-1512941937669-90a1b58e7e9c?auto=format&fit=crop&w=800&q=80',
-    tags: ['React Native', 'Firebase', 'Redux'],
-    github: 'https://github.com/iib3xu/gamma-app',
-    demo: 'https://gamma-app.com'
-  }
 ];
 
 const Projects = () => {
