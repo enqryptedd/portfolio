@@ -19,7 +19,7 @@ const projects = [
     image: 'https://www.pngitem.com/pimgs/m/184-1842813_logo-flappybird-flappy-bird-hd-png-download.png',
     tags: ['Python'],
     github: 'https://github.com/iib3xuu/flappy-bird-2',
-    demo: ''
+    demo: 'https://flappy-bird.co/flappy-bird-2'
   },
   {
     title: 'iib3xu's APIs',
@@ -27,8 +27,8 @@ const projects = [
     image: 'https://raw.githubusercontent.com/chrisaugu/pngx-api/master/images/banner.png',
     tags: ['Python'],
     github: 'https://github.com/iib3xuu/flappy-bird-2',
-    demo: ''
-  }
+    demo: 'https://iib-apis.vercel.app'
+  },
 ];
 
 const Projects = () => {
