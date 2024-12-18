@@ -1,5 +1,5 @@
 import React, { useState, useEffect } from 'react';
-import { Menu, Github, Instagram, TikTok } from 'lucide-react';
+import { Menu, Github, Instagram, Mail } from 'lucide-react';
 import { cn } from '../utils/cn';
 
 const Header = () => {
@@ -36,8 +36,8 @@ const Header = () => {
             <a href="https://instagram.com/iib3xu" className="text-gray-300 hover:text-white transition-colors">
               <Instagram size={20} />
             </a>
-            <a href="https://tiktok.com/@iib3xu" className="text-gray-300 hover:text-white transition-colors">
-              <TikTok size={20} />
+            <a href="mailto:hajresabuaisha@gmail.com" className="text-gray-300 hover:text-white transition-colors">
+              <Mail size={20} />
             </a>
             <button className="md:hidden text-white">
               <Menu size={24} />
