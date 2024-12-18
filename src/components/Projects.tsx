@@ -13,6 +13,22 @@ const projects = [
     github: 'https://github.com/iib3xuu/opus',
     demo: 'https://0pus.vercel.app'
   },
+  {
+    title: 'Flappy Bird 2',
+    description: 'A better version of the Original Flappy Bird.',
+    image: 'https://www.pngitem.com/pimgs/m/184-1842813_logo-flappybird-flappy-bird-hd-png-download.png',
+    tags: ['Python'],
+    github: 'https://github.com/iib3xuu/flappy-bird-2',
+    demo: ''
+  },
+  {
+    title: 'iib3xu's APIs',
+    description: 'An API that has variety of features.',
+    image: 'https://raw.githubusercontent.com/chrisaugu/pngx-api/master/images/banner.png',
+    tags: ['Python'],
+    github: 'https://github.com/iib3xuu/flappy-bird-2',
+    demo: ''
+  }
 ];
 
 const Projects = () => {
