@@ -49,22 +49,6 @@ const Contact = () => {
             </Button>
           </form>
           <div className="mt-8 pt-8 border-t border-gray-800">
-            <div className="flex flex-col md:flex-row justify-center space-y-4 md:space-y-0 md:space-x-8">
-              <a
-                href="mailto:contact@iib3xu.com"
-                className="flex items-center text-gray-400 hover:text-white transition-colors"
-              >
-                <Mail size={20} className="mr-2" />
-                contact@iib3xu.com
-              </a>
-              <a
-                href="#"
-                className="flex items-center text-gray-400 hover:text-white transition-colors"
-              >
-                <MessageSquare size={20} className="mr-2" />
-                @iib3xu
-              </a>
-            </div>
           </div>
         </Card>
       </div>
