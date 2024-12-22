@@ -11,13 +11,13 @@ const Footer = () => {
           </div>
           <div className="flex space-x-6">
             <a
-              href="https://github.com/iib3xuu"
+              href="https://github.com/enqryptedd"
               className="text-gray-400 hover:text-white transition-colors"
             >
               <Github size={20} />
             </a>
             <a
-              href="https://instagram.com/iib3xu"
+              href="https://instagram.com/enqryptedd"
               className="text-gray-400 hover:text-white transition-colors"
             >
               <Instagram size={20} />
