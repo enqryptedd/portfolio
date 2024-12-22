@@ -22,7 +22,7 @@ const Header = () => {
         )}
       >
         <div className="flex justify-between items-center py-2 px-6">
-          <div className="text-white font-bold text-xl">iib3xu</div>
+          <div className="text-white font-bold text-xl">enqryptedd</div>
           <nav className="hidden md:flex space-x-8">
             <a href="#home" className="text-gray-300 hover:text-white transition-colors">Home</a>
             <a href="#projects" className="text-gray-300 hover:text-white transition-colors">Projects</a>
@@ -30,10 +30,10 @@ const Header = () => {
             <a href="#contact" className="text-gray-300 hover:text-white transition-colors">Contact</a>
           </nav>
           <div className="flex items-center space-x-4">
-            <a href="https://github.com/iib3xuu" className="text-gray-300 hover:text-white transition-colors">
+            <a href="https://github.com/enqryptedd" className="text-gray-300 hover:text-white transition-colors">
               <Github size={20} />
             </a>
-            <a href="https://instagram.com/iib3xu" className="text-gray-300 hover:text-white transition-colors">
+            <a href="https://instagram.com/enqryptedd" className="text-gray-300 hover:text-white transition-colors">
               <Instagram size={20} />
             </a>
             <a href="mailto:hajresabuaisha@gmail.com" className="text-gray-300 hover:text-white transition-colors">
